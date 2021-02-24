@@ -17,4 +17,4 @@
 
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
 
-浏览器登录m.jd.com，登录，查看并复制cookie
+浏览器登录m.jd.com，登录，查看并复制cookie 2
